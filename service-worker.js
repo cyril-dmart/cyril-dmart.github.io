@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://cyril-dmart.github.io//precache-manifest.35d73e12005f8e0b5ae0bba17b3c442b.js"
+  "https://cyril-dmart.github.io/precache-manifest.f77e3ab4e0a98f81c94a0f4a3b237fab.js"
 );
 
 self.addEventListener('message', (event) => {
